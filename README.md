@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Sai Kumar</h1>
 <h3 align="center">A Passionate IT student and a DevOps Enthusiast</h3>
 
-<img align="right" alt="https://iconscout.com/lottie-animation/man-working-on-laptop-7303809">
+
 
 - 🌱 I’m currently learning **Python and DevOps**
 
