@@ -1,9 +1,7 @@
 <h1 align="center">Hello, I'm Sai Kumar</h1>
 <h3 align="center">A Passionate IT student and a DevOps Enthusiast</h3>
 
-
-"D:\Downloads\Web developer working on project.mp4"
-
+![Description of GIF](https://iconscout.com/lottie-animation/web-developer-working-on-project-4518779)
 
 - 🌱 I’m currently learning **Python and DevOps**
 
