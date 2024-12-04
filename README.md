@@ -1,8 +1,6 @@
 <h1 align="center">Hello, I'm Sai Kumar</h1>
 <h3 align="center">A Passionate IT student and a DevOps Enthusiast</h3>
 
-![My Cool GIF]https://github.com/sai09kumar/sai09kumar/blob/main/Web%20developer%20working%20on%20project.gif
-
 
 - 🌱 I’m currently learning **Python and DevOps**
 
