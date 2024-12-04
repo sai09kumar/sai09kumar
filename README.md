@@ -2,6 +2,8 @@
 <h3 align="center">A Passionate IT student and a DevOps Enthusiast</h3>
 
 
+https://iconscout.com/lottie-animation/work-deadline-4518750
+
 
 - 🌱 I’m currently learning **Python and DevOps**
 
